@@ -26,4 +26,4 @@ Test job
 - [задачи с 1 по 2 в Jupyter Notebook](https://github.com/moseevaevgeniya/IT-Rev/blob/c7eb7767ab621a6780c9b47f8673e42132c18447/Jupiter%20Notebook/Test_Moseeva.ipynb)
 - [задача 3-1: Проведение АА-тестов на  пользователях ленты новостей в Jupyter Notebook](https://github.com/moseevaevgeniya/IT-Rev/blob/4c15cbe3a3df555b39f889b3fb6aeceffe8c2d2b/Jupiter%20Notebook/Task_1_AA_test__1_.ipynb)
 - [задача 3-2: Оценка результатов проведения А/В тестирования данных пользователей ленты новостей в Jupyter Notebook](https://github.com/moseevaevgeniya/IT-Rev/blob/3902eaf88aec53fa0020a14422e02403b4c0319f/Jupiter%20Notebook/AB_test_task_2__1_.ipynb)
-- [задача 3-3: Анализ АВ теста по метрике линеаризованных лайков в Jupyter Notebook]()
+- [задача 3-3: Анализ АВ теста по метрике линеаризованных лайков в Jupyter Notebook](https://github.com/moseevaevgeniya/IT-Rev/blob/aa40e0722c84987ee7b348f98d4cc0c129939945/Jupiter%20Notebook/AB_test_linea.ipynb)
