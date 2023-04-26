@@ -23,7 +23,7 @@ Test job
 
 #### Решение:
 - [задачи с 1 по 5 в Word](https://disk.yandex.ru/i/_sPwlidOpYS-aA)
-- [задачи с 1 по 2 в Jupyter Notebook](https://disk.yandex.ru/d/4k5e5l5ClJ9gIw)
+- [задачи с 1 по 2 в Jupyter Notebook](https://github.com/moseevaevgeniya/IT-Rev/blob/c7eb7767ab621a6780c9b47f8673e42132c18447/Jupiter%20Notebook/Test_Moseeva.ipynb)
 - [задача 3-1: Проведение АА-тестов на  пользователях ленты новостей в Jupyter Notebook]()
 - [задача 3-2: Оценка результатов проведения А/В тестирования данных пользователей ленты новостей в Jupyter Notebook]()
 - [задача 3-3: Анализ АВ теста по метрике линеаризованных лайков в Jupyter Notebook]()
