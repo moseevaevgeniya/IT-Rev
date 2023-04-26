@@ -22,7 +22,7 @@ Test job
 #### Представьте решение заданий 1-3 с помощью методов библиотеки pandas (исходный файл загрузите как датафрейм). Пришлите решение в виде файла Jupyter Notebook или ссылкой на Datalore.
 
 #### Решение:
-- [задачи с 1 по 5 в Word](https://disk.yandex.ru/i/_sPwlidOpYS-aA)
+- [задачи с 1 по 5 в Word](https://docs.google.com/document/d/1OuN3aijTHxHCYonhraU3DNmTc0j6DmgM/edit?usp=sharing&ouid=111073237956529254962&rtpof=true&sd=true)
 - [задачи с 1 по 2 в Jupyter Notebook](https://github.com/moseevaevgeniya/IT-Rev/blob/c7eb7767ab621a6780c9b47f8673e42132c18447/Jupiter%20Notebook/Test_Moseeva.ipynb)
 - [задача 3-1: Проведение АА-тестов на  пользователях ленты новостей в Jupyter Notebook](https://github.com/moseevaevgeniya/IT-Rev/blob/4c15cbe3a3df555b39f889b3fb6aeceffe8c2d2b/Jupiter%20Notebook/Task_1_AA_test__1_.ipynb)
 - [задача 3-2: Оценка результатов проведения А/В тестирования данных пользователей ленты новостей в Jupyter Notebook](https://github.com/moseevaevgeniya/IT-Rev/blob/3902eaf88aec53fa0020a14422e02403b4c0319f/Jupiter%20Notebook/AB_test_task_2__1_.ipynb)
